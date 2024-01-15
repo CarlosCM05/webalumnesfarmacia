@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/75/Julia_set_spiral.png);
+    font-family: sans-serif;
+    color: aliceblue;
+    text-transform: capitalize;
+    flex-direction: column;
+    display: flex;
+    height: 100%;
+
+}
+
