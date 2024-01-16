@@ -12,7 +12,7 @@ aside{
     text-align: center;
     font-size: 20px;
     text-transform: uppercase;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .index {
     display: flex;
@@ -22,7 +22,7 @@ aside{
 .referencia {
     padding: 3em 0 3em 0;
     text-decoration: underline;
-    
+    color: white;
 }
 
 .right {
