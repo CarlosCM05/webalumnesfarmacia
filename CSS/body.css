@@ -1,11 +1,8 @@
 body {
     background-image: url(./../Images/fondo\ psicodelico\ 1.jpeg);
     font-family: sans-serif;
-    color: aliceblue;
-    text-transform: capitalize;
     flex-direction: column;
     display: flex;
     height: 100%;
-
 }
 

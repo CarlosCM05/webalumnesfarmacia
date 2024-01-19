@@ -2,11 +2,10 @@ aside{
     flex: 30%;
     padding: 3em 0 3em 0;
     height: 100vh;
+    background: rgba(0, 0, 0, 0.7)
 }
 .left {
     padding: 3em 0 3em 0;
-    background-color: black;
-    opacity: 70%;
 }
 .left h2 {
     text-align: center;
@@ -27,8 +26,6 @@ aside{
 
 .right {
     padding: 3em 0 3em 0;
-    background-color: black;
-    opacity: 70%;
 }
 
 @media (max-width:700px){
