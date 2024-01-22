@@ -7,9 +7,6 @@ header {
     text-align: center;
     align-items: center;
     display: flex;
-    background-image: url(../Images/Patron-header.jpg);
-    background-position: center center;
-    background-size: cover;
 }
 header h2:hover {
     text-decoration: underline;

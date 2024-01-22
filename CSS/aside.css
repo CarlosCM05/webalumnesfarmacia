@@ -2,10 +2,6 @@ aside{
     flex: 20%;
     padding: 3em 0 3em 0;
     background: rgba(0, 0, 0, 0.7);
-    background-image: url(./../Images/patron-costuras-fondo-hoja-cannabis-marihuana-ilustracion-generativa-ia_118086-10019.avif);
-    background-position: center center;
-    background-size: cover;
-    
 }
 
 .left h2 {
@@ -13,14 +9,11 @@ aside{
     font-size: 20px;
     text-transform: uppercase;
     color: white;
-    background: rgba(0, 0, 0, 0.7);
-    border-radius: 5px;
 }
 
 .referencia {
     display: flex;
-    background: rgba(0, 0, 0, 0.5);
-    border-radius: 5px;
+    
 }
 .referencia a{
     color: white;
