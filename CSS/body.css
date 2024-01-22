@@ -1,40 +1,4 @@
 body {
-    background-image: url(./../Images/fondo\ psicodelico\ 1.jpeg);
-    font-family: sans-serif;
-    flex-direction: column;
-    display: flex;
-    height: 100%;
-    background-position: center center;
-    background-size: cover;
-}
-.background_tipos {
-    background-image: url(./../Images/fondo\ maria.webp);
-    font-family: sans-serif;
-    flex-direction: column;
-    display: flex;
-    height: 100%;
-    background-position: center center;
-    background-size: cover;
-}
-.background_dades {
-    background-image: url(./../Images/fondo\ maria.webp);
-    font-family: sans-serif;
-    flex-direction: column;
-    display: flex;
-    height: 100%;
-    background-position: center center;
-    background-size: cover;
-}
-.background_etapas {
-    background-image: url(./../Images/fondo\ maria.webp);
-    font-family: sans-serif;
-    flex-direction: column;
-    display: flex;
-    height: 100%;
-    background-position: center center;
-    background-size: cover;
-}
-.background_recursos {
     background-image: url(./../Images/fondo\ maria.webp);
     font-family: sans-serif;
     flex-direction: column;
