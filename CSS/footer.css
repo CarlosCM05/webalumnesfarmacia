@@ -26,7 +26,7 @@ footer{
      position: absolute;
      left:0;
      bottom: -10px;
-     background-color: #e91e63;
+     background-color: #e6db02;
      height: 2px;
      box-sizing: border-box;
      width: 50px;
@@ -62,7 +62,9 @@ footer{
      color: #1c1c1c;
      background-color: #ffffff;
 }
- 
+.footer-col .social-media i:hover {
+     color: #ffffff;
+}
 @media(max-width: 767px){
    .footer-col{
      width: 50%;
