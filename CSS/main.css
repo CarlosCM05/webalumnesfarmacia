@@ -52,8 +52,8 @@ p{
     align-items: center;
 }
 .formula-drogas {
-max-width: 70vh;
-max-height: 40vh;
+    max-width: 70vh;
+    max-height: 40vh;
 }
 .contenido h4 {
     font-size: 16px;
