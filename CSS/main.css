@@ -21,6 +21,14 @@ main h2{
 
     overflow-x: hidden;
 }
+.contenido a {
+    color: rgb(0, 8, 255);
+    text-decoration: underline;
+}
+.contenido a:hover {
+    color: rgb(0, 0, 202);
+    text-decoration: underline;
+}
 .contenido::-webkit-scrollbar {
     width: 8px;
 }

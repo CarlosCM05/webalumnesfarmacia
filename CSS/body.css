@@ -1,6 +1,6 @@
 body {
     background-image: url(./../Images/fondo\ maria.webp);
-    font-family: sans-serif;
+    font-family: 'calibri';
     flex-direction: column;
     display: flex;
     height: 100%;
