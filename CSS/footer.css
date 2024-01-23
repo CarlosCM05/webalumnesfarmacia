@@ -1,6 +1,7 @@
-footer{
-	background-color: #1c1c1c;
+footer {
+     background-color: #1c1c1c;
     padding: 70px 0;
+    
 }
 .social-media {
      color: #bbbbbb;
@@ -63,6 +64,17 @@ footer{
      background-color: #ffffff;
 }
 .footer-col .social-media i:hover {
+     color: #ffffff;
+}
+.footer-copyright {
+     position: relative;
+     bottom: 5%;
+     right: 5%;
+}
+.footer-copyright p {
+     color: #bbbbbb;
+}
+.footer-copyright p:hover {
      color: #ffffff;
 }
 @media(max-width: 767px){
